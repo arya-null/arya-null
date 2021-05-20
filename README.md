@@ -17,6 +17,14 @@ About Me- I love building apps, designing Ui's and working with AR technology. L
 
 </p>
 
+
+To Do📑
+- take a cup of tea
+- do some brain teasers
+- show some creativity
+- refresh yourself, hearing some meditating music.
+- you are done
+
 <!---
 arya-null/arya-null is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
