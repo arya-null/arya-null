@@ -1,5 +1,4 @@
-<body>
-<p class ="me">
+
 - 👋 Hi, I’m Anubhab @arya-null
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning more on tensorflow 
@@ -7,7 +6,7 @@
 with react js, angular js and react native . I am also working on ui UX designing
 
 About Me- I love building apps, designing Ui's and working with AR technology. Like Making The best time out of the Waste.
-</p>
+
 <p><a href="https://www.twitter.com/Anubhab_01"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>  <a href="mailto:anubhab-bhattacharya@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25></a>
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" heigh=25> 
@@ -17,15 +16,6 @@ About Me- I love building apps, designing Ui's and working with AR technology. L
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
 
 </p>
-<style>
-body{
-background-color:white;
-}
-.me{
-Color: black; 
-}
-</style>
-<body>
 
 <!---
 arya-null/arya-null is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
