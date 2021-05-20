@@ -16,7 +16,7 @@ with react js, angular js and react native . I am also working on UI UX designin
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height=22/>
 </p>
 
-My UI designing software
+ UI designing software I use
 <br>
 - <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" height=24/>
 
@@ -35,7 +35,7 @@ To Do📑
 
 
 
-[![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arya-null)](https://github.com/arya-null/github-readme-stats)
+
 
 
 
