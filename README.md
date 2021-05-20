@@ -1,6 +1,6 @@
 <strong>Hi, I am anubhab 👋 <a href="https://GitHub.com/arya-null">@arya-null</a></strong>
 - 🌱 I’m currently learning more on tensorflow 
-- 👨‍💻 I am currently working on android AR projects on rn framework and also working
+- 👨‍💻 I am currently working on android AR projects on rn framework with tfjs and also working
 with react js, angular js and react native . I am also working on UI UX designing
 - 🏋️‍♂️About Me: I love building apps, designing Ui's and working with AR technology. Like Making The best time out of the Waste.
 
