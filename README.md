@@ -19,9 +19,9 @@ About Me- I love building apps, designing Ui's and working with AR technology. L
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height=22/>
 </p>
 
-My hi designing software
+My Ui designing software
+<br>
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" height=24/>
-
 
 
 
