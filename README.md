@@ -6,7 +6,9 @@ with react js, angular js and react native . I am also working on ui UX designin
 
 About Me- I love building apps, designing Ui's and working with AR technology. Like Making The best time out of the Waste.
 
-<p><a href="https://www.twitter.com/Anubhab_01"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>  <a href="mailto:anubhab-bhattacharya@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25></a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" heigh=25> </p>
+<p><a href="https://www.twitter.com/Anubhab_01"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>  <a href="mailto:anubhab-bhattacharya@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25></a>
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" heigh=25> </p>
 
 <!---
 arya-null/arya-null is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
