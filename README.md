@@ -14,7 +14,7 @@ About Me- I love building apps, designing Ui's and working with AR technology. L
    <img src="	https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=blac" heigh=25> 
   <br>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
-
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase" height=25/>
 </p>
 
 
