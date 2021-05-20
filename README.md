@@ -19,6 +19,8 @@ About Me- I love building apps, designing Ui's and working with AR technology. L
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height=22/>
 </p>
 
+[![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arya-null)](https://github.com/arya-null/github-readme-stats)
+
 
 To Do📑
 - take a cup of tea
