@@ -3,7 +3,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning more on tensorflow 
 - 👨‍💻 I am currently working on android AR projects on rn framework and also working
-with react js, angular js and react native . I am also working on ui UX designing
+with react js, angular js and react native . I am also working on UI UX designing
 
 About Me- I love building apps, designing Ui's and working with AR technology. Like Making The best time out of the Waste.
 
@@ -19,7 +19,7 @@ About Me- I love building apps, designing Ui's and working with AR technology. L
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height=22/>
 </p>
 
-My Ui designing software
+My UI designing software
 <br>
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" height=24/>
 
