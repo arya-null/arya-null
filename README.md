@@ -37,7 +37,7 @@ To Do📑
 
 [![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arya-null)](https://github.com/arya-null/github-readme-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arya-null&langs_count=5&theme=tokyonight)]()
+
 
 
 <!---
