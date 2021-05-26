@@ -6,7 +6,7 @@ with react js, angular js and react native . I am also working on UI UX designin
 - pronouns: he/him
 - 🔗 personal website: http://arya-null.github.io/
 <p><a href="https://www.twitter.com/Anubhab_01"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>  <a href="mailto:anubhab-bhattacharya@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25></a>
-  <a href="https://dibbble.com/arya-null"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
+  <a href="https://dribbble.com/arya-null"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
 <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" heigh=25> 
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height=25>
